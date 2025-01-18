@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABDR4FI3</h1>
 
-<h3 align="left">A fifth-year student in Computer Science and Networks at the Moroccan School of Engineering Sciences (EMSI), I am currently seeking a 4-to-6-month end-of-study internship starting from February 17th to apply my skills in Full Stack Development / Testing.</h3>
 <img width="1834" alt="Make your README" src="https://i.imgur.com/jgW6hv6.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdr4fi3&label=Profile%20views&color=0e75b6&style=flat" alt="abdr4fi3" /> </p>
